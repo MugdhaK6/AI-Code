@@ -1,0 +1,5 @@
+{
+  "name": "BugEcho",
+  "description": "An application to automatically generate issue replication scenarios for different environments (SIT, Pre-Prod, Dev) using AI. Describe a production issue, select an environment, and get a detailed step-by-step guide to reproduce it.",
+  "requestFramePermissions": []
+}
